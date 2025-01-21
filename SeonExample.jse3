@@ -471,7 +471,6 @@ generator_settings
 		chance: 0%;
 		settings: [
 			spawn, radius = 0,
-			centred,
 			structural, struct = 10,
 		];
 	}
